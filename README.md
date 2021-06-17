@@ -15,3 +15,5 @@ PrimeFactorization.ConsoleApp.exe C:\files\files.txt
 
 ## Notes
 If a line from file cannot to parsed to ulong type "error" line will be appended in the result files.
+
+### To stop processing number use Ctrl^C.
